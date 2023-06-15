@@ -1,0 +1,19 @@
+.Calculator-box{
+    background-color: bisque;
+    text-align: center;
+    height: 250px;
+    width: 450px;
+    padding: 7px;
+}
+
+.Calculator-display{
+    padding: 20px;
+    font-size: 2.3rem;
+    font-weight: 700;
+}
+
+.Calculator-button{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
