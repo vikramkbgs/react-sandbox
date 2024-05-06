@@ -1,0 +1,16 @@
+.listItem{
+    height: 50px;
+    width: 200px;
+    padding: 10px;
+}
+
+img{
+    height: 50px;
+    width: 50px;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 5px;
+    margin-top: -5px;
+}

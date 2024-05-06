@@ -1,3 +1,4 @@
+
 import './App.css';
 import Calculator from './components/Calculator';
 
@@ -7,6 +8,5 @@ function App() {
       <Calculator/>
     </div>
   );
-}
 
 export default App;
