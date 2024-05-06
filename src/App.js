@@ -1,12 +1,12 @@
-import "./App.css";
-import Social from "./Social";
+
+import './App.css';
+import Calculator from './components/Calculator';
 
 function App() {
-  const socialComponents = Array.from({ length: 4 }, (_, index) => (
-    <Social key={index} />
-  ));
-
-  return <div className="App">{socialComponents}</div>;
-}
+  return (
+    <div className="App">
+      <Calculator/>
+    </div>
+  );
 
 export default App;
